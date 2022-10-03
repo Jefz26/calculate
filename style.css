@@ -35,7 +35,7 @@ background: linear-gradient(to right, #CBCE91FF, #35B2CB);
         align-items: flex-end;
         justify-content: space-around;
         flex-direction: column;
-        padding: 10px;
+        padding: 14px;
         word-wrap: break-word;
         word-break: break-all;
       }
